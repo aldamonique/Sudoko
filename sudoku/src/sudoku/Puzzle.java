@@ -54,7 +54,7 @@ public class Puzzle {
 //	          {true, true, true, true, true, true, true, true, true},
 //	          {true, true, true, true, true, true, true, true, true},
 //	          {true, true, true, true, true, true, true, true, true},
-//	          {true, true, true, true, true, true, true, true, true},
+//	          {true, true, true, true, true, tru e, true, true, true},
 //	          {true, true, true, true, true, true, true, true, true},
 //	          {true, true, true, true, true, true, true, true, true},
 //	          {true, true, true, true, true, true, true, true, true}};
